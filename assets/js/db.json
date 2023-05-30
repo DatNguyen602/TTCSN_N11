@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "username": "hoandt",
+      "email": "cuong0403@gmail.com",
+      "password": "Cuong0403",
+      "password_confirmation": "Cuong0403",
+      "id": 1
+    },
+    {
+      "username": "cuong",
+      "email": "cuongbuidinh433@gmail.com",
+      "password": "Cuong04033",
+      "password_confirmation": "Cuong04033",
+      "id": 2
+    },
+    {
+      "username": "Quang Cuong",
+      "email": "Qcuong@gmail.com",
+      "password": "Quangcuong123",
+      "password_confirmation": "Quangcuong123",
+      "id": 3
+    },
+    {
+      "username": "Ninh Văn Hải",
+      "email": "haivan003@gmail.com",
+      "password": "Haivan123",
+      "password_confirmation": "Haivan123",
+      "id": 4
+    },
+    {
+      "username": "Nguyễn Xuân Đạt",
+      "email": "datnguyen003@gmail.com",
+      "password": "Datnguyen123",
+      "password_confirmation": "Datnguyen123",
+      "id": 5
+    }
+  ]
+}

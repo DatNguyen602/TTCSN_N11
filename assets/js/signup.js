@@ -107,4 +107,9 @@ form.addEventListener('submit', e => {
     window.location.assign("./index.html")
 })
 
+const cancel = () => {
+    // alert("Cancel");
+    window.location.assign("./index.html");
+}
+
 

@@ -89,7 +89,7 @@ span {
     padding: 4px 0 0;
 }
 
-.form-submit {
+.form-submit , .form-cancel{
     outline: none;
     background-color: #1dbfaf;
     margin-top: 12px;
@@ -103,8 +103,16 @@ span {
     cursor: pointer;
 }
 
+.form-cancel{
+    background-color: #e81224;
+}
+
 .form-submit:hover {
     background-color: #1ac7b6;
+}
+
+.form-cancel:hover {
+    background-color: #ef4e4e;
 }
 
 .spacer {
